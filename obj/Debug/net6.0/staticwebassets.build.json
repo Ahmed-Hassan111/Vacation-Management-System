@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TJGvCUWXOCOxnDGm0reUHVV7iprvnY9VN6nKqvS+xEo=",
+  "Hash": "cl05o+nR2eEQKArYfbxzOEchmhF2oLv2wN5ljQZVmdA=",
   "Source": "VacationManagement",
   "BasePath": "_content/VacationManagement",
   "Mode": "Default",
@@ -559,6 +559,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\dist\\css\\alt\\adminlte.plugins.min.css.map"
+    },
+    {
+      "Identity": "F:\\c#\\VacationManagement\\wwwroot\\dist\\img\\admin.png",
+      "SourceId": "VacationManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\c#\\VacationManagement\\wwwroot\\",
+      "BasePath": "_content/VacationManagement",
+      "RelativePath": "dist/img/admin.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dist\\img\\admin.png"
     },
     {
       "Identity": "F:\\c#\\VacationManagement\\wwwroot\\dist\\img\\AdminLTELogo.png",

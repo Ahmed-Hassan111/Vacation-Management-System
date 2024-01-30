@@ -133,6 +133,10 @@
       "PackagePath": "staticwebassets\\dist\\img\\AdminLTELogo.png"
     },
     {
+      "Id": "F:\\c#\\VacationManagement\\wwwroot\\dist\\img\\admin.png",
+      "PackagePath": "staticwebassets\\dist\\img\\admin.png"
+    },
+    {
       "Id": "F:\\c#\\VacationManagement\\wwwroot\\dist\\img\\avatar.png",
       "PackagePath": "staticwebassets\\dist\\img\\avatar.png"
     },

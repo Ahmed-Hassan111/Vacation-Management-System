@@ -76,6 +76,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjYXRpb25QbGFuc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[F:/c\#/VacationManagement/Views/VacationPlans/ViewReportVactionPlan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjYXRpb25QbGFuc1xWaWV3UmVwb3J0VmFjdGlvblBsYW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/c\#/VacationManagement/Views/VacationPlans/ViewReportVactionPlan2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjYXRpb25QbGFuc1xWaWV3UmVwb3J0VmFjdGlvblBsYW4yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/c\#/VacationManagement/Views/VacationTypes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFjYXRpb25UeXBlc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
