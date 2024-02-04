@@ -26,7 +26,7 @@
                     @Html.DisplayNameFor(model => model.VacationBalance)
                 </th>
                 <th>
-                    @Html.DisplayNameFor(model => model.DepartmentId)
+                    @Html.DisplayNameFor(model => model.Department)
                 </th>
                 <th>Events</th>
             </tr>
@@ -45,7 +45,7 @@
                         @Html.DisplayFor(modelItem => item.VacationBalance)
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => item.DepartmentId)
+                        @Html.DisplayFor(modelItem => item.Department.Name)
                     </td>
                     <td>
                             @Html.ActionLink("Edit", "Edit", new {  id=item.Id},htmlAttributes:new{@class="btn btn-info"}) |
